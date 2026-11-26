@@ -1,119 +1,209 @@
-# Hi, I'm Ilmaan Khan 👋
+<div align="center">
 
-<p align="center">
-  Information Science Engineering student at CMRIT, Bengaluru<br/>
-  Building full-stack projects and looking for Software Engineering Internships
-</p>
+# Ilmaan Khan
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ilmaan-khan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ilm2ankhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**I build full-stack apps end to end, from the database schema to the last pixel.**
 
----
+<br/>
 
-## 👨‍💻 About Me
-
-I'm a B.Tech Information Science Engineering student at CMR Institute of Technology, Bengaluru (Class of 2028).
-
-I enjoy software development, databases, and problem-solving. I learn best by building complete applications, from database design to user interfaces.
-
-My recent work includes a Spring Boot and React system for railway station congestion prediction, and a Next.js platform for a commercial printing business featuring a 2D design editor and 3D packaging preview.
-
-## 🛠️ Technical Skills
-
-**Languages**
+![Status](https://img.shields.io/badge/Open_to-SWE_Internships-2ea44f?style=flat)
+![Class of](https://img.shields.io/badge/B.Tech_ISE-Class_of_2028-0A66C2?style=flat)
+![Location](https://img.shields.io/badge/Bengaluru-India-555555?style=flat)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-
-**Backend and Databases**
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+[LinkedIn](https://www.linkedin.com/in/ilmaan-khan/) · [Email](mailto:ilm2ankhan@gmail.com) · [GitHub](https://github.com/ilm2ankhan-maker)
+
+</div>
+
+---
+
+## Demo
+
+<!-- Replace with a real GIF or screenshot. Keep each under ~5 MB. -->
+<div align="center">
+
+| Railway Congestion Prediction | PrintCraft Design Studio |
+|:---:|:---:|
+| ![Railway dashboard demo](./assets/railway-demo.gif) | ![PrintCraft studio demo](./assets/printcraft-demo.gif) |
+
+</div>
+
+---
+
+## Why this exists
+
+I'm a third-year-in-the-making Information Science student who learns fastest by shipping complete things. Tutorials teach syntax; building a real app teaches schema design, API contracts, state management, and what breaks when users show up.
+
+**What I focus on**
+
+- **Full-stack ownership.** I design the data model, write the API, and build the UI.
+- **Real problems, real clients.** One project predicts station congestion from reservation data; another is in use-case development for a working print shop in Bengaluru.
+- **Boring tech, done well.** Relational databases, typed code, REST APIs that do one thing clearly.
+- **Complex interactions.** 2D editors, SVG processing, and a 3D preview in the browser.
+
+---
+
+## Projects
+
+### [Railway Congestion Prediction System](https://github.com/ilm2ankhan-maker/Railway_congestion)
+
+Look up a PNR and see whether the station will be Low, Medium, or High congestion.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-Vite-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+- Congestion lookup by PNR number
+- Three-level prediction (Low / Medium / High) from reservation data
+- REST API between a React (Vite) frontend and Spring Boot backend
+- MySQL for persistence
+
+### [PrintCraft: Digital Prepress and E-Commerce](https://github.com/ilm2ankhan-maker/printcraft-vajra-prints)
+
+A web platform for Vajra Prints, a commercial printing business in Bengaluru. Built as a team project at CMRIT.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+- 2D design studio with bleed lines, templates, and SVG/PNG layer handling
+- 3D packaging customizer with real-time design preview (Three.js)
+- Laser-cutting price calculator driven by SVG outlines
+- Staff dashboard with an order management pipeline
 
 ---
 
-## 🚀 Projects
+## Quick start
 
-### 1. Railway Congestion Prediction System
+Run either project locally. Commands below are the standard ones for each stack; check each repo's README if something differs.
 
-[View Repository](https://github.com/ilm2ankhan-maker/Railway_congestion)
+<details>
+<summary><b>Railway Congestion Prediction System</b></summary>
 
-A full-stack web application that predicts congestion levels at railway stations using reservation data and displays results through an interactive dashboard.
+**Prerequisites**
 
-- Search congestion using PNR numbers.
-- Predict Low / Medium / High congestion levels.
-- REST API connecting React frontend with Spring Boot backend.
-- MySQL database for data management.
+- Java 17+
+- Maven
+- Node.js 18+
+- MySQL 8+
 
-**Tech Stack:** Java, Spring Boot, React (Vite), MySQL
+**Install**
 
-### 2. PrintCraft – Digital Prepress and E-Commerce Platform
+```bash
+git clone https://github.com/ilm2ankhan-maker/Railway_congestion.git
+cd Railway_congestion
+```
 
-[View Repository](https://github.com/ilm2ankhan-maker/printcraft-vajra-prints)
+Create a MySQL database and set your credentials in the backend's `application.properties`:
 
-A web platform developed for Vajra Prints, a commercial printing business in Bengaluru, as a team project at CMRIT.
+```sql
+CREATE DATABASE railway_congestion;
+```
 
-- 2D design studio with bleed lines, templates and SVG/PNG layer handling.
-- 3D packaging customizer with real-time design previews.
-- Laser-cutting price calculator using SVG outlines.
-- Staff dashboard with an order management pipeline.
+**Run**
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Zustand, Prisma, Supabase
+```bash
+# Backend (Spring Boot)
+cd backend
+mvn spring-boot:run
+
+# Frontend (React + Vite), in a second terminal
+cd frontend
+npm install
+npm run dev
+```
+
+Open the URL Vite prints (usually `http://localhost:5173`) and search by PNR.
+
+</details>
+
+<details>
+<summary><b>PrintCraft</b></summary>
+
+**Prerequisites**
+
+- Node.js 18+
+- A Supabase project (Postgres connection string and API keys)
+
+**Install**
+
+```bash
+git clone https://github.com/ilm2ankhan-maker/printcraft-vajra-prints.git
+cd printcraft-vajra-prints
+npm install
+```
+
+Create `.env` with your own values:
+
+```env
+DATABASE_URL="postgresql://..."
+NEXT_PUBLIC_SUPABASE_URL="https://<project>.supabase.co"
+NEXT_PUBLIC_SUPABASE_ANON_KEY="..."
+```
+
+**Run**
+
+```bash
+npx prisma migrate dev
+npm run dev
+```
+
+Open `http://localhost:3000`.
+
+</details>
 
 ---
 
-## 📊 GitHub Statistics
+## How it works
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilm2ankhan-maker&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilm2ankhan-maker&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+Both projects follow the same shape: a typed client, a thin API layer, and a relational store.
+
+```mermaid
+flowchart LR
+    subgraph Railway
+        RC[React + Vite] -->|REST| SB[Spring Boot API]
+        SB --> ML[(MySQL)]
+        SB --> PR[Congestion model<br/>Low / Medium / High]
+    end
+
+    subgraph PrintCraft
+        NX[Next.js + Zustand] --> ST[2D Studio<br/>SVG / PNG layers]
+        NX --> TD[3D Preview<br/>Three.js]
+        NX -->|Prisma| SP[(Supabase)]
+        SP --> OD[Staff order pipeline]
+    end
+```
 
 ---
 
-## 📫 Connect With Me
+## Roadmap
 
-- **LinkedIn:** [Ilmaan Khan](https://www.linkedin.com/in/ilmaan-khan/)
-- **Email:** [ilm2ankhan@gmail.com](mailto:ilm2ankhan@gmail.com)
-- **GitHub:** [ilm2ankhan-maker](https://github.com/ilm2ankhan-maker)
+- [ ] Add screenshots and demo GIFs to both project READMEs
+- [ ] Write tests for the Railway prediction logic
+- [ ] Deploy both projects with live links
+- [ ] Add CI (build and lint) via GitHub Actions
+- [ ] Write up what I learned building the 3D packaging preview
 
-I'm open to Software Engineering Internship opportunities. Feel free to connect!
-<!--
-**ilm2ankhan-maker/ilm2ankhan-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Contributing and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Found a bug or have an idea in either project? Open an issue or send a PR. Small, focused changes are easiest to review.
+
+I'm also looking for a **Software Engineering internship** where I can work on production code and learn from people who've shipped a lot. If that sounds like your team, reach out.
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/ilmaan-khan/) · [ilm2ankhan@gmail.com](mailto:ilm2ankhan@gmail.com)
+
+</div>
